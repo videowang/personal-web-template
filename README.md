@@ -39,19 +39,20 @@ npm start
 打开浏览器访问 `http://localhost:3000`
 
 ## 项目结构
-AI-CODING/
-├── public/
-│ ├── pictures/
-│ │ ├── slide1.jpg
-│ │ ├── slide2.jpg
-│ │ └── slide3.jpg
-│ ├── index.html
-│ ├── script.js
-│ └── styles.css
-├── server.js
-├── package.json
-└── .env
-
+| 文件/文件夹 | 描述 |
+|---|---|
+| AI-CODING/ | 项目根目录 |
+| ├── public/ | 公共资源目录 |
+| │ ├── pictures/ | 图片资源目录 |
+| │ │ ├── slide1.jpg | 第一张幻灯片 |
+| │ │ ├── slide2.jpg | 第二张幻灯片 |
+| │ │ └── slide3.jpg | 第三张幻灯片 |
+| │ ├── index.html | 主页 |
+| │ ├── script.js | JavaScript 文件 |
+| │ └── styles.css | CSS 文件 |
+| ├── server.js | 服务器端 JavaScript 文件 |
+| ├── package.json | npm 包管理配置文件 |
+| └──.env | 环境变量配置文件 |
 
 ## 主要功能
 
